@@ -31,7 +31,18 @@ This project applies transfer learning techniques with Keras on the publicly ava
   - Classification reports with precision, recall, F1-score
 
 ---
+## 🚀 Setup Instructions
 
+### 1️⃣ Clone the Repository
+
+### 2️⃣ Install Dependencies
+
+### 3️⃣ Unzip the Dataset
+This will extract `dataset.zip` into `data/` with `train/`, `val/` and `test/` folders.
+
+### 4️⃣ Train Models
+
+---
 ## 🚀 How to Run
 
 1. **Prepare Dataset:**
@@ -76,6 +87,24 @@ This project applies transfer learning techniques with Keras on the publicly ava
   - ResNet50 — higher accuracy, more compute
 - **Training Curves:** Useful for detecting overfitting/underfitting.
 - **Class-wise Metrics:** Identify strengths/weaknesses for each disease category.
+
+---
+
+---
+
+## 🧠 Models Used
+- **VGG16** – Good for small datasets.
+- **InceptionV3** – Balances accuracy and computation.
+- **ResNet50** – Handles deep architectures efficiently.
+
+---
+
+## 📊 Results
+| Model       | Accuracy (%) |
+|-------------|--------------|
+| VGG16       | xx.xx        |
+| InceptionV3 | xx.xx        |
+| ResNet50    | xx.xx        |
 
 ---
 
