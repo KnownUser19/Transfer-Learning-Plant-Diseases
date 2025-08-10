@@ -102,9 +102,9 @@ This will extract `dataset.zip` into `data/` with `train/`, `val/` and `test/` f
 ## 📊 Results
 | Model       | Accuracy (%) |
 |-------------|--------------|
-| VGG16       | xx.xx        |
-| InceptionV3 | xx.xx        |
-| ResNet50    | xx.xx        |
+| VGG16       |    95.75     |
+| InceptionV3 |   91.97      |
+| ResNet50    |   53.47      |
 
 ---
 
